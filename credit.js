@@ -52,8 +52,9 @@ function payLoan(balance, interest, payment, defer) {
 
 }
 
-
-
+    console.log(ayp(0.22,4));
+    console.log(payCreditCard(3570, 0.1545, 210));
+    console.log(payLoan(3570, 0.1899, 210, 12));
 /***************************** Write some logs **********************************/
 /****************************to see some results*********************************/
-
++
